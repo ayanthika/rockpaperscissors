@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "rockpaperscissors"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-rockpaperscissors-24242048-b77a-4606-b47e-656da7434519;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
