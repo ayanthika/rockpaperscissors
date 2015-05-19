@@ -15,6 +15,9 @@ namespace RockPaperScissorWebApplication.Controllers
        
         public IActionResult Index()
         {
+            UserChoiceModel userChoiceModel = new UserChoiceModel();
+           
+            
                 return View();
 
          }
